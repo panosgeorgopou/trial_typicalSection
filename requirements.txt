@@ -1,5 +1,6 @@
 pandas
 numpy
+math
 matplotlib
 ipympl
 ipywidgets
